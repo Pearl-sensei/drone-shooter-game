@@ -1,0 +1,97 @@
+body{
+  margin: 0;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: black;
+  color:white;
+  overflow:hidden;
+}
+
+#startScreen {
+  background: url(assets/backgrounds/night.png) no-repeat center center /cover;
+  width:100vw;
+  height: 100vh;
+  text-align: center;
+  padding-top:80px;
+}
+
+#randomDrone{
+  width:100px;
+  height: 100px;
+}
+
+h1{
+  font-size: 48px;
+  margin-bottom:20px;
+}
+
+#highScoreDisplay{
+  font-weight: bold;
+  font-size: 24px;
+}
+
+#startButton {
+  margin-top: 30p;
+  padding: 15px 30px;
+  font-size: 20px;
+  color: white;
+  border: none;
+  background: linear-gradient(135deg, #5500ff, #ff00ff);
+  border-radius: 12px;
+  box-shadow: 0 0 20px #ff00ff;
+  cursor:pointer;
+  transition: transform 0.2s ease;
+}
+
+#startButton:hover{
+  transform:scale(1.1);
+}
+
+canvas{
+  display: block;
+  margin: 0 auto;
+  border: 3px solid white;
+}
+
+#gameOverScreen{
+  position:absolute;
+  top:0;
+  left: 0;
+  width: 100vw;
+  height:100vh;
+  background:rgba(0, 0, 30, 0.9);
+  color:white;
+  text-align: center;
+  padding-top: 120px;
+  z-index:10;
+}
+
+#restartButton{
+  margin-top:30px;
+  padding: 15p 30px;
+  font-size: 20px;
+  color: pink;
+  border:none;
+  background: linear-gradient(135deg, #ff0066, #5500ff);
+  border-radius: 12px;
+  box-shadow: 0 0 20px #ff00ff;
+  cursor:pointer;
+}
+
+#muteButton {
+  position:absolute;
+  top:15px;
+  right:15px;
+  font-size:24px;
+  background: rgba(0, 0, 30, 0.9);
+  border: none;
+  color:white;
+  border-radius: 50px;
+  width:50px;
+  height:50px;
+  cursor: pointer;
+  z-index:20;
+}
+
+#muteButton:hover{
+  background: rgba(255, 255, 255, 0.2);
+}
