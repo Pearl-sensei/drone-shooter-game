@@ -1,4 +1,4 @@
-# 🚁 Drone Shooter Game
+# 👽 Alien Shooter Game
 
 A fast-paced browser game where you must shoot enemy drones flying toward you — but **don’t shoot your own color**, or you’ll lose points!
 
