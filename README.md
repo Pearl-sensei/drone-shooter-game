@@ -36,7 +36,6 @@ Built with JavaScript, HTML5 Canvas, and custom visuals.
 
 ## 🖼️ Screenshots
 
-> (You can insert your screenshots here)
 
 ---
 
@@ -44,7 +43,6 @@ Built with JavaScript, HTML5 Canvas, and custom visuals.
 
 👉 [Play on GitHub Pages](https://your-username.github.io/drone-shooter-game)
 
-> Replace with your actual GitHub Pages link after deploying.
 
 ---
 
