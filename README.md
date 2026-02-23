@@ -34,11 +34,6 @@ Built with JavaScript, HTML5 Canvas, and custom visuals.
 
 ---
 
-## 🖼️ Screenshots
-
-
----
-
 ## 🚀 Play It Live
 
 👉 [Play on GitHub Pages]((https://pearl-sensei.github.io/drone-shooter-game/))
@@ -54,6 +49,3 @@ Built with JavaScript, HTML5 Canvas, and custom visuals.
 - Audio API
 - Git + GitHub Pages
 
----
-
-## 📁 Folder Structure
